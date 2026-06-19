@@ -1,0 +1,4 @@
+Importação, 
+Limpeza,
+Plots,
+Exportação.
