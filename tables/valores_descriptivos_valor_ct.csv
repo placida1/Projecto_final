@@ -1,0 +1,2 @@
+variable,n,mean,median,std,min,q1,q3,max,iqr
+valor_ct,120,25.33,25.0,5.653148152455713,14.0,21.3,28.8,40.8,7.5

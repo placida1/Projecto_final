@@ -1,0 +1,9 @@
+variable,category,count,percent
+resultado,Positivo,95,79.17
+resultado,Negativo,25,20.83
+patogeno,COVID-19,66,55.0
+patogeno,Influenza,54,45.0
+laboratorio,Lab2,63,52.5
+laboratorio,Lab1,57,47.5
+qualidade_amostra,Boa,66,55.0
+qualidade_amostra,Media,54,45.0

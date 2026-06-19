@@ -1,0 +1,7 @@
+test,variables,statistic,p_value,dof,interpretation
+Shapiro-Wilk,valor_ct,0.9789,0.0563,,normal distribution
+Mann-Whitney U,valor_ct ~ patogeno (COVID-19 vs Influenza),1545.0,0.2122,,no significant difference
+Mann-Whitney U,valor_ct ~ resultado (Positivo vs Negativo),0.0,0.0,,significant difference
+Chi-square,resultado vs patogeno,0.0128,0.9101,1.0,not associated (independent)
+Chi-square,resultado vs laboratorio,0.0,1.0,1.0,not associated (independent)
+Chi-square,resultado vs qualidade_amostra,2.8708,0.0902,1.0,not associated (independent)
